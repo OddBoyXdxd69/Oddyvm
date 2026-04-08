@@ -6,6 +6,6 @@
   ],
   "nodes": [
     {"id": "node1", "name": "India Node 01", "url": "https://in2.hostmc.cloud:8080"},
-    {"id": "node2", "name": "Germany Node 01", "url": "https://de1.hostmc.cloud"}
+    {"id": "node2", "name": "Germany Node 01", "url": "https://de1.hostmc.cloud:8080"}
   ]
 }
