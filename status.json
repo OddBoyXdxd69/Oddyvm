@@ -1,0 +1,11 @@
+{
+  "core_services": [
+    {"id": "main", "name": "Main Website", "desc": "hostmc.cloud", "url": "https://hostmc.cloud", "icon": "🌐"},
+    {"id": "billing", "name": "Billing Gateway", "desc": "billing.hostmc.cloud", "url": "https://billing.hostmc.cloud", "icon": "💳"},
+    {"id": "panel", "name": "Server Panel", "desc": "panel.hostmc.cloud", "url": "https://panel.hostmc.cloud", "icon": "⚙️"}
+  ],
+  "nodes": [
+    {"id": "node1", "name": "India Node 01", "url": "https://node1.hostmc.cloud"},
+    {"id": "node2", "name": "Germany Node 01", "url": "https://de1.hostmc.cloud"}
+  ]
+}
