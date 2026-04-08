@@ -5,7 +5,7 @@
     {"id": "panel", "name": "Server Panel", "desc": "panel.hostmc.cloud", "url": "https://panel.hostmc.cloud", "icon": "⚙️"}
   ],
   "nodes": [
-    {"id": "node1", "name": "India Node 01", "url": "https://node1.hostmc.cloud"},
+    {"id": "node1", "name": "India Node 01", "url": "https://in2.hostmc.cloud"},
     {"id": "node2", "name": "Germany Node 01", "url": "https://de1.hostmc.cloud"}
   ]
 }
