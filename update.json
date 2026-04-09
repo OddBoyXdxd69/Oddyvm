@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "build_code": 10002,
+  "version": "1.0.4",
+  "build_code": 10003,
   "changelog": "Added the new Over-The-Air Auto Updater and fixed native bugs!",
   "download_url": "https://github.com/OddBoyXdxd69/Oddyvm/raw/main/HostMC.apk"
 }
