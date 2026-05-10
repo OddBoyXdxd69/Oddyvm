@@ -1,11 +1,11 @@
 {
   "core_services": [
-    {"id": "main", "name": "Main Website", "desc": "hostmc.cloud", "url": "https://hostmc.cloud", "icon": "🌐"},
-    {"id": "billing", "name": "Billing Gateway", "desc": "billing.hostmc.cloud", "url": "https://billing.hostmc.cloud", "icon": "💳"},
-    {"id": "panel", "name": "Server Panel", "desc": "panel.hostmc.cloud", "url": "https://panel.hostmc.cloud", "icon": "⚙️"}
+    {"id": "main", "name": "Main Website", "desc": "hostmc.in", "url": "https://hostmc.in", "icon": "🌐"},
+    {"id": "billing", "name": "Billing Gateway", "desc": "billing.hostmc.in", "url": "https://billing.hostmc.in", "icon": "💳"},
+    {"id": "panel", "name": "Server Panel", "desc": "panel.hostmc.in", "url": "https://panel.hostmc.in", "icon": "⚙️"}
   ],
   "nodes": [
-    {"id": "node1", "name": "India Node 01", "url": "https://in2.hostmc.cloud:8080"},
-    {"id": "node2", "name": "India Node 02", "url": "https://in9.hostmc.cloud:8080"}
+    {"id": "node1", "name": "India Node 01", "url": "https://in2.hostmc.in:8080"},
+    {"id": "node2", "name": "India Node 02", "url": "https://in9.hostmc.in:8080"}
   ]
 }
